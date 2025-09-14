@@ -1,9 +1,3 @@
-# 👋 Hey there, I'm Marlon!
-
-I'm a **software developer** who specializes in **game development** and **desktop applications**. I enjoy building creative, performance-driven applications with clean architecture and thoughtful design.
-
----
-
 ## 🛠️ Tech Stack
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
