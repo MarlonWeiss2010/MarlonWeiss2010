@@ -18,15 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎮 Passionate about building games and immersive experiences
-- 🖥️ Experienced in creating desktop apps with modern frameworks
-- 📚 Always learning and exploring new tech
-- 🤝 Open to collaboration and game dev projects
-
----
-
 ## 📊 GitHub Stats
 
 ![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonWeiss2010&show_icons=true&theme=radical)
