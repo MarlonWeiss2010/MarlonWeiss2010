@@ -1,6 +1,6 @@
-## 🛠️ Tech Stack
+## Skills
 
-| Frontend                                                                                                          | Bewertung | Backend                                                                                                        | Bewertung |
+| Frontend                                                                                                          | Evaluation | Backend                                                                                                        | Evaluation |
 | ----------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- | --------- |
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)          | ★★☆☆☆     | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)     | ★★★☆☆     |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ★★★☆☆     | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ★★★★☆     |
@@ -12,11 +12,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonWeiss2010&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarlonWeiss2010&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonWeiss2010&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
